@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimAlmacenFisico4()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=RobotPreparador\ getRobot()
+comment3.params=
+comment3.target=Stock\ getStock()
+comment4.params=
+comment4.target=AlmacenGestor\ getGestor()
+comment5.params=
+comment5.target=void\ realizarPedidos()
+comment6.params=
+comment6.target=void\ despacharPedidos()
+comment7.params=
+comment7.target=void\ anadirCajasEscenario()
+comment8.params=colores\ numCajas
+comment8.target=void\ actualizarStock(java.awt.Color[],\ int)
+comment9.params=width\ length\ color
+comment9.target=ch.aplu.jgamegrid.GGBitmap\ bar(int,\ int,\ java.awt.Color)
+numComments=10

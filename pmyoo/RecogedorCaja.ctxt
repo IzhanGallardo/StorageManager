@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RecogedorCaja
+comment1.params=port
+comment1.target=RecogedorCaja(ch.aplu.robotsim.MotorPort)
+comment2.params=
+comment2.target=ch.aplu.robotsim.Motor\ getMotor()
+comment3.params=
+comment3.target=void\ elevar()
+comment4.params=
+comment4.target=void\ bajar()
+comment5.params=caja
+comment5.target=void\ recogerCaja(Caja)
+comment6.params=caja
+comment6.target=void\ dejarCaja(Caja)
+numComments=7

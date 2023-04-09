@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pRmin\ pRmax\ pGmin\ pGmax\ pBmin\ pBmax
+comment0.target=ColorFila(int,\ int,\ int,\ int,\ int,\ int)
+numComments=1

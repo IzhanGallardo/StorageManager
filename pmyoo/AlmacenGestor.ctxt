@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pStock\ pRobot
+comment0.target=AlmacenGestor(Stock,\ RobotPreparador)
+comment1.params=
+comment1.target=Stock\ getStock()
+comment2.params=pColor
+comment2.target=void\ recibePedido(java.awt.Color)
+comment3.params=
+comment3.target=void\ despacharPedidos()
+comment4.params=pColor
+comment4.target=Caja\ recuperarPrimeraCaja(java.awt.Color)
+comment5.params=pCaja\ pColor
+comment5.target=void\ cajaServida(Caja,\ java.awt.Color)
+numComments=6

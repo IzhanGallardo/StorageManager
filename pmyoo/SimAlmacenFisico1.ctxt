@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimAlmacenFisico1()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=RobotSeguidorLinea\ getRobot()
+comment3.params=width\ length\ color
+comment3.target=ch.aplu.jgamegrid.GGBitmap\ bar(int,\ int,\ java.awt.Color)
+numComments=4
